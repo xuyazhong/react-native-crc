@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "buffer": "^5.2.1",
+    "convert-string": "^0.1.0"
+  },
+  "description": "react native crc",
+  "homepage": "https://github.com/xuyazhong/react-native-crc#readme",
+  "keywords": [
+    "react-native",
+    "react-native-crc",
+    "crc16"
+  ],
+  "main": "./CRC.js",
+  "name": "react-native-crc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuyazhong/react-native-crc.git"
+  },
+  "version": "0.0.1"
+}
